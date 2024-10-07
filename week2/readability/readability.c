@@ -20,7 +20,7 @@ int main(void)
     float S = ((float) sentences / words) * 100;
 
     float index = 0.0588 * L - 0.296 * S - 15.8;
-    int grade = round(index);
+    int grade = round(index); 
 
     if (grade < 1)
     {
@@ -51,7 +51,7 @@ int count_letters(string text)
 
 int count_words(string text)
 {
-    int words = 1; // Start at 1 because the last word isn't followed by a space
+    int words = 1;
     for (int i = 0, n = strlen(text); i < n; i++)
     {
         if (isspace(text[i]))

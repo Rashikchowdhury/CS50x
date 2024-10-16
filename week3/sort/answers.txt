@@ -1,12 +1,12 @@
 sort1 uses: Bubble sort
 
-How do you know?: I run the files and noted the time of exicuting files! then i saw than it is equal to O(n2).
+How do you know?: I exicuted each file and i saw that the time complaxity is equals to O(n^2).
 
 sort2 uses: Merge sort
 
-How do you know?: I run the files and noted the time of exicuting files! then i saw than it is equal to O(nlogn).
+How do you know?: I exicuted each file and i saw that the time complaxity is equals to O(n log n)
 
 sort3 uses: Selection sort
 
-How do you know?: I run the files and noted the time of exicuting files! then i saw than it is equal to O(n2).
+How do you know?: I exicuted each file and i saw that the time complaxity is equals to O(n^2).
 

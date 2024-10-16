@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: I run the files and noted the time of exicuting files! then i saw than it is equal to O(n2).
+
+sort2 uses: Merge sort
+
+How do you know?: I run the files and noted the time of exicuting files! then i saw than it is equal to O(nlogn).
+
+sort3 uses: Selection sort
+
+How do you know?: I run the files and noted the time of exicuting files! then i saw than it is equal to O(n2).
+
